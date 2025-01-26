@@ -10,7 +10,7 @@ for(let singleListItem of listItems){
         if(lastClicked == null){
              // style purpose 
              // lal hoita debo 
-        // console.log(singleListItem.innerText) ntclr
+        // console.log(singleListItem.innerText) ntclr 
         singleListItem.style.backgroundColor = "red"
         singleListItem.style.color = "white"
         lastClicked = singleListItem
